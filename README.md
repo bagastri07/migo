@@ -1,0 +1,2 @@
+# migo
+Golang PostgreSQL Migrator
